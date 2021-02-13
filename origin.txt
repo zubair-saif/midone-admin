@@ -1,0 +1,816 @@
+Uri: http://midone.left4code.com/
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\index.htm
+Content Type: text/html
+
+Uri: http://midone.left4code.com/dist/images/logo.svg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: http://midone.left4code.com/dist/css/app.css
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\css\app.css
+Content Type: text/css
+
+Uri: http://midone.left4code.com/index.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\index.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-dashboard.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-dashboard.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-dashboard.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-dashboard.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-inbox.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-inbox.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-file-manager.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-file-manager.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-point-of-sale.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-point-of-sale.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-chat.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-chat.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-post.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-post.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-crud-data-list.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-crud-data-list.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-crud-form.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-crud-form.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-users-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-users-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-users-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-users-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-users-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-users-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-profile-overview-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-profile-overview-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-profile-overview-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-profile-overview-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-profile-overview-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-profile-overview-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-wizard-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-wizard-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-wizard-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-wizard-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-wizard-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-wizard-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-blog-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-blog-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-blog-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-blog-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-blog-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-blog-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-pricing-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-pricing-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-pricing-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-pricing-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-invoice-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-invoice-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-invoice-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-invoice-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-faq-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-faq-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-faq-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-faq-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-faq-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-faq-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/login-light-login.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\login-light-login.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/login-light-register.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\login-light-register.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/main-light-error-page.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\main-light-error-page.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-update-profile.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-update-profile.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-change-password.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-change-password.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-regular-table.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-regular-table.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-tabulator.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-tabulator.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-accordion.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-accordion.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-button.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-button.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-modal.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-modal.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-alert.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-alert.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-progress-bar.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-progress-bar.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-tooltip.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-tooltip.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-dropdown.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-dropdown.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-toast.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-toast.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-typography.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-typography.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-icon.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-icon.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-loading-icon.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-loading-icon.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-regular-form.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-regular-form.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-datepicker.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-datepicker.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-tail-select.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-tail-select.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-file-upload.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-file-upload.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-wysiwyg-editor.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-wysiwyg-editor.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-validation.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-validation.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-chart.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-chart.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-slider.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-slider.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/side-menu-light-image-zoom.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\side-menu-light-image-zoom.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/dist/images/profile-10.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-10.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-5.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-5.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-4.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-4.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-15.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-15.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-12.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-12.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-2.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-2.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-3.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-3.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-1.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-1.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-12.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-12.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-14.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-14.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-2.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-2.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-6.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-6.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-5.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-5.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-11.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-11.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-9.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-9.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-4.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-4.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-10.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-10.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-3.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-3.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-9.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-9.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-1.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-1.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-6.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-6.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/js/app.js
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\js\app.js
+Content Type: application/javascript
+
+Uri: http://midone.left4code.com/dist/images/bg-login-page.svg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\bg-login-page.svg
+Content Type: image/svg+xml
+
+Uri: http://midone.left4code.com/dist/images/bg-login-page-dark.svg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\bg-login-page-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://midone.left4code.com/simple-menu-light-inbox.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-inbox.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-file-manager.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-file-manager.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-point-of-sale.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-point-of-sale.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-chat.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-chat.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-post.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-post.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-users-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-users-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-users-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-users-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-users-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-users-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-profile-overview-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-profile-overview-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-profile-overview-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-profile-overview-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-profile-overview-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-profile-overview-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-wizard-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-wizard-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-wizard-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-wizard-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-wizard-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-wizard-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-blog-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-blog-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-blog-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-blog-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-blog-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-blog-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-pricing-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-pricing-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-pricing-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-pricing-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-invoice-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-invoice-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-invoice-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-invoice-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-faq-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-faq-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-faq-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-faq-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-faq-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-faq-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-update-profile.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-update-profile.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-change-password.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-change-password.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-regular-table.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-regular-table.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-tabulator.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-tabulator.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-accordion.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-accordion.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-button.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-button.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-modal.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-modal.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-alert.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-alert.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-progress-bar.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-progress-bar.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-tooltip.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-tooltip.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-dropdown.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-dropdown.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-toast.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-toast.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-typography.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-typography.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-icon.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-icon.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-regular-form.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-regular-form.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-datepicker.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-datepicker.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-tail-select.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-tail-select.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-file-upload.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-file-upload.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-wysiwyg-editor.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-wysiwyg-editor.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-validation.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-validation.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-chart.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-chart.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-slider.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-slider.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/simple-menu-light-image-zoom.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\simple-menu-light-image-zoom.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/dist/images/profile-8.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-8.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-13.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-13.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-8.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-8.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-7.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-7.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-11.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-11.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-7.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-7.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/preview-13.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-13.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/profile-15.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\profile-15.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/top-menu-light-users-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-users-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-users-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-users-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-users-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-users-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-profile-overview-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-profile-overview-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-profile-overview-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-profile-overview-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-profile-overview-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-profile-overview-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-inbox.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-inbox.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-file-manager.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-file-manager.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-point-of-sale.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-point-of-sale.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-chat.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-chat.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-post.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-post.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-wizard-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-wizard-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-wizard-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-wizard-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-wizard-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-wizard-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-blog-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-blog-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-blog-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-blog-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-blog-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-blog-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-pricing-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-pricing-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-pricing-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-pricing-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-invoice-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-invoice-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-invoice-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-invoice-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-faq-layout-1.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-faq-layout-1.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-faq-layout-2.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-faq-layout-2.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-faq-layout-3.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-faq-layout-3.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-update-profile.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-update-profile.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-change-password.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-change-password.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-regular-table.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-regular-table.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-tabulator.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-tabulator.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-accordion.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-accordion.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-button.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-button.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-modal.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-modal.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-alert.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-alert.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-progress-bar.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-progress-bar.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-tooltip.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-tooltip.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-dropdown.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-dropdown.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-toast.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-toast.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-typography.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-typography.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-icon.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-icon.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-regular-form.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-regular-form.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-datepicker.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-datepicker.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-tail-select.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-tail-select.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-file-upload.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-file-upload.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-wysiwyg-editor.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-wysiwyg-editor.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-validation.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-validation.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-chart.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-chart.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-slider.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-slider.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/top-menu-light-image-zoom.html
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\top-menu-light-image-zoom.html
+Content Type: text/html
+
+Uri: http://midone.left4code.com/dist/images/preview-14.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\preview-14.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-6.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-6.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-1.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-1.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-5.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-5.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-4.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-4.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-9.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-9.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-15.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-15.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/illustration.svg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\illustration.svg
+Content Type: image/svg+xml
+
+Uri: http://midone.left4code.com/dist/images/error-illustration.svg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\error-illustration.svg
+Content Type: image/svg+xml
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-19.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-19.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-3.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-3.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-8.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-8.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-12.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-12.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-10.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-10.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-17.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-17.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-13.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-13.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-18.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-18.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-14.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-14.jpg
+Content Type: image/jpeg
+
+Uri: http://midone.left4code.com/dist/images/food-beverage-7.jpg
+File Name: C:\Users\LMKR\Desktop\midone.left4code.com\dist\images\food-beverage-7.jpg
+Content Type: image/jpeg
+
